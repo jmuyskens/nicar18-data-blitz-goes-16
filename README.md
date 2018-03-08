@@ -9,6 +9,7 @@ Slides TK
 - [ABI scanning pattern](https://www.youtube.com/watch?v=MVUlYgm6zCo)
 
 # Examples
+- [Watch five hurricanes churn through the Atlantic in one month (The Washington Post)](https://twitter.com/PostGraphics/status/911272226862792705)
 - [Sin Luz: Life without power (The Washington Post)](https://www.washingtonpost.com/graphics/2017/national/puerto-rico-life-without-power/)
 - [A matter of miles: How the slightest shift kept Hurricane Irma from turning into an even worse disaster (Tampa Bay Times)](http://www.tampabay.com/projects/2017/hurricane-irma/matter-of-miles/)
 - [As Wildfires Burn in West, Ash Rides Wind High Across U.S. (New York Times)](https://www.nytimes.com/interactive/2017/09/16/us/wildfires-smoke-pacific-northwest.html)
