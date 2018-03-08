@@ -16,7 +16,7 @@ Slides TK
 - [Billions of birds migrate. Where do they go? (National Geographic)](https://www.nationalgeographic.com/magazine/2018/03/bird-migration-interactive-maps/)
 
 # Tools
-- [RAMMB-SLIDER (Colorado State University)]()
+- [RAMMB-SLIDER (Colorado State University)](https://rammb-slider.cira.colostate.edu/)
 - [Real Earth (University of Wisconsin)](https://realearth.ssec.wisc.edu/)
 - [GOES-16 on Amazon Download Page (Brian Baylock)](http://home.chpc.utah.edu/~u0553130/Brian_Blaylock/cgi-bin/goes16_download.cgi?domain=C&product=ABI-L2-MCMIP&hour=0)
 - [GDAL 2.2 installer for MacOS](http://www.kyngchaos.com/software:frameworks)
